@@ -14,4 +14,5 @@ In the 'processingData_Example' directory there are some example of analysis and
 - import_ipynb
 - datetime 
 - matplotlib
--math
+- math
+- lark
